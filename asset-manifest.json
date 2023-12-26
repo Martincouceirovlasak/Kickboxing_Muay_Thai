@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.94ee1561.css",
-    "main.js": "./static/js/main.c727a222.js",
-    "static/js/787.669789d8.chunk.js": "./static/js/787.669789d8.chunk.js",
-    "static/media/WA.png": "./static/media/WA.082d8dc1d1cdff0fe742.png",
-    "static/media/background.jpg": "./static/media/background.a5e7528152afffb8baef.jpg",
-    "index.html": "./static/Kickboxing_Muay_Thai/index.html",
-    "main.94ee1561.css.map": "./static/css/main.94ee1561.css.map",
-    "main.c727a222.js.map": "./static/js/main.c727a222.js.map",
-    "787.669789d8.chunk.js.map": "./static/js/787.669789d8.chunk.js.map"
+    "main.css": "/static/css/main.94ee1561.css",
+    "main.js": "/static/js/main.d5a4cf66.js",
+    "static/js/787.669789d8.chunk.js": "/static/js/787.669789d8.chunk.js",
+    "index.html": "/index.html",
+    "main.94ee1561.css.map": "/static/css/main.94ee1561.css.map",
+    "main.d5a4cf66.js.map": "/static/js/main.d5a4cf66.js.map",
+    "787.669789d8.chunk.js.map": "/static/js/787.669789d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94ee1561.css",
-    "static/js/main.c727a222.js"
+    "static/js/main.d5a4cf66.js"
   ]
 }
