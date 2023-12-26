@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/css/main.94ee1561.css",
-    "main.js": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/js/main.1b3be9ac.js",
-    "static/js/787.669789d8.chunk.js": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/js/787.669789d8.chunk.js",
-    "index.html": "/Martincouceirovlasak/Kickboxing_Muay_Thai/index.html",
-    "main.94ee1561.css.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/css/main.94ee1561.css.map",
-    "main.1b3be9ac.js.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/js/main.1b3be9ac.js.map",
-    "787.669789d8.chunk.js.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai/static/js/787.669789d8.chunk.js.map"
+    "main.css": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/css/main.94ee1561.css",
+    "main.js": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/js/main.a902cc64.js",
+    "static/js/787.669789d8.chunk.js": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/js/787.669789d8.chunk.js",
+    "index.html": "/martincouceirovlasak/Kickboxing_Muay_Thai/index.html",
+    "main.94ee1561.css.map": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/css/main.94ee1561.css.map",
+    "main.a902cc64.js.map": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/js/main.a902cc64.js.map",
+    "787.669789d8.chunk.js.map": "/martincouceirovlasak/Kickboxing_Muay_Thai/static/js/787.669789d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94ee1561.css",
-    "static/js/main.1b3be9ac.js"
+    "static/js/main.a902cc64.js"
   ]
 }
