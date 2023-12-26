@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/css/main.94ee1561.css",
+    "main.js": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/js/main.5125820c.js",
+    "static/js/787.669789d8.chunk.js": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/js/787.669789d8.chunk.js",
+    "static/media/WA.png": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/media/WA.082d8dc1d1cdff0fe742.png",
+    "static/media/background.jpg": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/media/background.a5e7528152afffb8baef.jpg",
+    "index.html": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/index.html",
+    "main.94ee1561.css.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/css/main.94ee1561.css.map",
+    "main.5125820c.js.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/js/main.5125820c.js.map",
+    "787.669789d8.chunk.js.map": "/Martincouceirovlasak/Kickboxing_Muay_Thai.git/static/js/787.669789d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ee1561.css",
+    "static/js/main.5125820c.js"
+  ]
+}
