@@ -4,7 +4,7 @@ import React from 'react';
 function Title() {
 
     const boldText = {
-        fontWeight: "800", // You can adjust this value to make it as bold as you want
+        fontWeight: "700", // You can adjust this value to make it as bold as you want
       };
     
       const goldenBorder = {
@@ -14,8 +14,8 @@ function Title() {
 
 
   return (
-<div class="container-fluid text-center text-primary-emphasis bg-primary-subtle" style={goldenBorder}>
-  <h1 class="display-1" style={boldText}>News</h1>
+<div className="container-fluid text-center text-primary-emphasis bg-danger" style={goldenBorder}>
+  <h1 className="display-1" style={boldText}>Kick Boxing & Muay-Thai</h1>
 
 </div>
 
